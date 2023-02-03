@@ -9,6 +9,12 @@ Flutter&Dart ve Firebase kullanarak yaptığım bu uygulamanın işlevleri;<br>
 -Soru-Cevap özelliği sayesinde kafanıza takılan sorularda paylaşım yaparak gelen cevaplara göre çözüm yolları bulabilmek.<br>
 gibi pek çok özelliği içerisinde barındırıyor.
 
+<br>
+Uygulamayı deneyebilmek için firebase bağlantılarını sağlamanız ve google harita apilerinin bağlantılarını sağlamanız gerekmektedir.<br>
+Apk dosyasında problem yaşamanız durumunda iletişime geçerseniz yardımcı olabilirim.
+<br>
+
+
 <hr><br>
 
 <h5>Giriş Ekranı</h5><br>
