@@ -1,0 +1,942 @@
+[
+  {
+    "type_name": "Köpek",
+    "breeds": [
+      {
+        "breed_name": "Affenpinscher"
+      },
+      {
+        "breed_name": "Afgan Tazısı"
+      },
+      {
+        "breed_name": "Aidi"
+      },
+      {
+        "breed_name": "Ainu"
+      },
+      {
+        "breed_name": "Airedale Terrier"
+      },
+      {
+        "breed_name": "Akbaş"
+      },
+      {
+        "breed_name": "Akita İnu"
+      },
+      {
+        "breed_name": "Aksaray Malaklısı"
+      },
+      {
+        "breed_name": "Alabay (Alabai)"
+      },
+      {
+        "breed_name": "Alaskan Malamute"
+      },
+      {
+        "breed_name": "Alman Av Terrieri"
+      },
+      {
+        "breed_name": "Alman Çoban Köpeği"
+      },
+      {
+        "breed_name": "Alman Kalın Tüylü Pointer"
+      },
+      {
+        "breed_name": "Alman Kısa Tüylü Pointer"
+      },
+      {
+        "breed_name": "Alman Spanieli"
+      },
+      {
+        "breed_name": "Alpine Dachsbracke"
+      },
+      {
+        "breed_name": "Amerikan Bulldog"
+      },
+      {
+        "breed_name": "Amerikan Cocker Spaniel"
+      },
+      {
+        "breed_name": "Amerikan Eskimo"
+      },
+      {
+        "breed_name": "Amerikan Pitbull Terrier"
+      },
+      {
+        "breed_name": "Amerikan Staffordshire Terrier"
+      },
+      {
+        "breed_name": "Amerikan Su Spanieli"
+      },
+      {
+        "breed_name": "Amerikan Tilki Tazısı"
+      },
+      {
+        "breed_name": "Amerikan Tüysüz Terrieri"
+      },
+      {
+        "breed_name": "Amerikan Yerli Köpeği"
+      },
+      {
+        "breed_name": "Appenzell Dağ Köpeği"
+      },
+      {
+        "breed_name": "Ariegeois"
+      },
+      {
+        "breed_name": "Avustralya Çoban Köpeği"
+      },
+      {
+        "breed_name": "Avustralya Sığır Köpeği"
+      },
+      {
+        "breed_name": "Avustralya Terrier"
+      },
+      {
+        "breed_name": "Avustralyalı Kelpie"
+      },
+      {
+        "breed_name": "Avusturya Tazısı"
+      },
+      {
+        "breed_name": "Avusturyalı Pinscher"
+      },
+      {
+        "breed_name": "Bandogge Mastiff"
+      },
+      {
+        "breed_name": "Basenji"
+      },
+      {
+        "breed_name": "Basset Hound"
+      },
+      {
+        "breed_name": "Bavyera Dağ Tazısı"
+      },
+      {
+        "breed_name": "Beagle"
+      },
+      {
+        "breed_name": "Beauceron"
+      },
+      {
+        "breed_name": "Bedlington Terrier"
+      },
+      {
+        "breed_name": "Belçika Groenendael"
+      },
+      {
+        "breed_name": "Belçika Laekenois"
+      },
+      {
+        "breed_name": "Belçika Malinois"
+      },
+      {
+        "breed_name": "Belçika Tervuren"
+      },
+      {
+        "breed_name": "Bergamasco"
+      },
+      {
+        "breed_name": "Bernese Dağ Köpeği"
+      },
+      {
+        "breed_name": "Bichon Frise"
+      },
+      {
+        "breed_name": "Bichon Havanese"
+      },
+      {
+        "breed_name": "Billy"
+      },
+      {
+        "breed_name": "Bloodhound"
+      },
+      {
+        "breed_name": "Border Collie"
+      },
+      {
+        "breed_name": "Border Terrier"
+      },
+      {
+        "breed_name": "Borzoi"
+      },
+      {
+        "breed_name": "Boston Terrier"
+      },
+      {
+        "breed_name": "Bouvier des Ardennes"
+      },
+      {
+        "breed_name": "Bouvier des Flandres"
+      },
+      {
+        "breed_name": "Boxer"
+      },
+      {
+        "breed_name": "Brezilya Mastiff"
+      },
+      {
+        "breed_name": "Briard"
+      },
+      {
+        "breed_name": "Brittany"
+      },
+      {
+        "breed_name": "Brüksel Griffonu"
+      },
+      {
+        "breed_name": "Bull Terrier"
+      },
+      {
+        "breed_name": "Bullmastiff"
+      },
+      {
+        "breed_name": "Büyük İsveç Dağ Köpeği"
+      },
+      {
+        "breed_name": "Cairn Terrier"
+      },
+      {
+        "breed_name": "Canaan Köpeği"
+      },
+      {
+        "breed_name": "Cane Corso Italiano"
+      },
+      {
+        "breed_name": "Cao da Serra da Estrela"
+      },
+      {
+        "breed_name": "Cao de Castro Laboreiro"
+      },
+      {
+        "breed_name": "Cao de Serra de Aires"
+      },
+      {
+        "breed_name": "Cardigan Welsh Corgi"
+      },
+      {
+        "breed_name": "Catahoula Leopar Köpeği"
+      },
+      {
+        "breed_name": "Cavalier King Charles Spanieli"
+      },
+      {
+        "breed_name": "Cesky Terrier"
+      },
+      {
+        "breed_name": "Chesapeake Bay Retriever"
+      },
+      {
+        "breed_name": "Chiens Francaises"
+      },
+      {
+        "breed_name": "Chihuahua"
+      },
+      {
+        "breed_name": "Chow Chow (çin Aslanı)"
+      },
+      {
+        "breed_name": "Clumber Spaniel"
+      },
+      {
+        "breed_name": "Collie"
+      },
+      {
+        "breed_name": "Coton De Tulear"
+      },
+      {
+        "breed_name": "Curly Coated Retriever"
+      },
+      {
+        "breed_name": "Çatalburun"
+      },
+      {
+        "breed_name": "Çin Creste Köpeği"
+      },
+      {
+        "breed_name": "Çin Shar Pei"
+      },
+      {
+        "breed_name": "Dachshund (Sosis)"
+      },
+      {
+        "breed_name": "Dalmatian"
+      },
+      {
+        "breed_name": "Dandie Dinmont Terrier"
+      },
+      {
+        "breed_name": "Dev Schnauzer"
+      },
+      {
+        "breed_name": "Doberman Pinscher"
+      },
+      {
+        "breed_name": "Dogo Arjantin"
+      },
+      {
+        "breed_name": "Entlebucher"
+      },
+      {
+        "breed_name": "Eskimo Köpeği"
+      },
+      {
+        "breed_name": "Field Spaniel"
+      },
+      {
+        "breed_name": "Fin Tazısı"
+      },
+      {
+        "breed_name": "Finnish Spitz"
+      },
+      {
+        "breed_name": "Flat Coated Retriever"
+      },
+      {
+        "breed_name": "Fox Terrier (Smooth)"
+      },
+      {
+        "breed_name": "Fox Terrier (Wire)"
+      },
+      {
+        "breed_name": "Fransız Bulldog"
+      },
+      {
+        "breed_name": "Fransız Mastiff"
+      },
+      {
+        "breed_name": "Glen of Imaal Terrier"
+      },
+      {
+        "breed_name": "Golden Retriever"
+      },
+      {
+        "breed_name": "Gordon Setter"
+      },
+      {
+        "breed_name": "Grand Bleu de Gascogne"
+      },
+      {
+        "breed_name": "Grand Gascon Saintongeois"
+      },
+      {
+        "breed_name": "Great Dane (Danua)"
+      },
+      {
+        "breed_name": "Great Phyrenees"
+      },
+      {
+        "breed_name": "Greyhound"
+      },
+      {
+        "breed_name": "Grönland Köpeği"
+      },
+      {
+        "breed_name": "Hanover Tazısı"
+      },
+      {
+        "breed_name": "Harrier"
+      },
+      {
+        "breed_name": "Hırvat Çoban Köpeği"
+      },
+      {
+        "breed_name": "Hollanda Çoban Köpeği"
+      },
+      {
+        "breed_name": "Hovawart"
+      },
+      {
+        "breed_name": "Ibizan Hound"
+      },
+      {
+        "breed_name": "İlirya çoban Köpeği"
+      },
+      {
+        "breed_name": "İngiliz Bulldog"
+      },
+      {
+        "breed_name": "İngiliz Cocker Spaniel"
+      },
+      {
+        "breed_name": "İngiliz Setter"
+      },
+      {
+        "breed_name": "İngiliz Springer Spaniel"
+      },
+      {
+        "breed_name": "İngiliz Tilki Tazısı"
+      },
+      {
+        "breed_name": "İrlandalı Kurt Tazısı"
+      },
+      {
+        "breed_name": "İrlandalı Setter"
+      },
+      {
+        "breed_name": "İrlandalı Su Spanieli"
+      },
+      {
+        "breed_name": "İrlandalı Terrier"
+      },
+      {
+        "breed_name": "İskoç Geyik Tazısı"
+      },
+      {
+        "breed_name": "İskoç Terrier"
+      },
+      {
+        "breed_name": "İspanyol Mastiff"
+      },
+      {
+        "breed_name": "İsveç çoban köpeği"
+      },
+      {
+        "breed_name": "İsveç Geyik Avcısı"
+      },
+      {
+        "breed_name": "İtalyan Tazısı"
+      },
+      {
+        "breed_name": "İzlanda Köpeği"
+      },
+      {
+        "breed_name": "Jack Russell Terrier"
+      },
+      {
+        "breed_name": "Japon Chin"
+      },
+      {
+        "breed_name": "Kangal"
+      },
+      {
+        "breed_name": "Karelya Ayı Köpeği"
+      },
+      {
+        "breed_name": "Kars Çoban Köpeği"
+      },
+      {
+        "breed_name": "Karst Çoban Köpeği"
+      },
+      {
+        "breed_name": "Katalan Çoban Köpeği"
+      },
+      {
+        "breed_name": "Keeshond"
+      },
+      {
+        "breed_name": "Kerry Blue Terrier"
+      },
+      {
+        "breed_name": "King Charles Spaniel"
+      },
+      {
+        "breed_name": "Komondor"
+      },
+      {
+        "breed_name": "Kuvasz"
+      },
+      {
+        "breed_name": "Kyüshü"
+      },
+      {
+        "breed_name": "Labrador Retriever"
+      },
+      {
+        "breed_name": "Lakeland Terrier"
+      },
+      {
+        "breed_name": "Landseer"
+      },
+      {
+        "breed_name": "Lapphund"
+      },
+      {
+        "breed_name": "Lapponian Çoban Köpeği"
+      },
+      {
+        "breed_name": "Leonberger"
+      },
+      {
+        "breed_name": "Lhasa Apso"
+      },
+      {
+        "breed_name": "Lowchen"
+      },
+      {
+        "breed_name": "Maltese"
+      },
+      {
+        "breed_name": "Manchester Terrier"
+      },
+      {
+        "breed_name": "Maremma Çoban Köpeği"
+      },
+      {
+        "breed_name": "Mastiff"
+      },
+      {
+        "breed_name": "Minyatür Bull Terrier"
+      },
+      {
+        "breed_name": "Minyatür Pinscher"
+      },
+      {
+        "breed_name": "Minyatür Schnauzer"
+      },
+      {
+        "breed_name": "Mudi"
+      },
+      {
+        "breed_name": "Napoliten Mastiff"
+      },
+      {
+        "breed_name": "Newfoundland"
+      },
+      {
+        "breed_name": "Norfolk Terrier"
+      },
+      {
+        "breed_name": "Norrbottenspets"
+      },
+      {
+        "breed_name": "Norsk Buhund"
+      },
+      {
+        "breed_name": "Norveç Geyik Avcısı"
+      },
+      {
+        "breed_name": "Norwich Terrier"
+      },
+      {
+        "breed_name": "Old English Sheepdog"
+      },
+      {
+        "breed_name": "Otterhound"
+      },
+      {
+        "breed_name": "Pappilon"
+      },
+      {
+        "breed_name": "Pekingese"
+      },
+      {
+        "breed_name": "Pembroke Welsh Corgi"
+      },
+      {
+        "breed_name": "Peru Tüysüz Köpeği"
+      },
+      {
+        "breed_name": "Petit Basset Griffon Vendien"
+      },
+      {
+        "breed_name": "Petit Bleu de Gascogne"
+      },
+      {
+        "breed_name": "Pharaoh Hound"
+      },
+      {
+        "breed_name": "Picardy Çoban Köpeği"
+      },
+      {
+        "breed_name": "Plott Tazısı"
+      },
+      {
+        "breed_name": "Pointer"
+      },
+      {
+        "breed_name": "Poitevin"
+      },
+      {
+        "breed_name": "Polonya Tazısı"
+      },
+      {
+        "breed_name": "Pomeranyalı"
+      },
+      {
+        "breed_name": "Poodle (Minyatür Kaniş)"
+      },
+      {
+        "breed_name": "Poodle(Standart Kaniş)"
+      },
+      {
+        "breed_name": "Portekiz Su Köpeği"
+      },
+      {
+        "breed_name": "Presa Canario"
+      },
+      {
+        "breed_name": "Pug"
+      },
+      {
+        "breed_name": "Puli"
+      },
+      {
+        "breed_name": "Pumi"
+      },
+      {
+        "breed_name": "Pyrenees Çoban Köpeği"
+      },
+      {
+        "breed_name": "Pyrenees Mastiff"
+      },
+      {
+        "breed_name": "Rafeiro do Alentejo"
+      },
+      {
+        "breed_name": "Rhodesian Ridgeback"
+      },
+      {
+        "breed_name": "Rottweiler"
+      },
+      {
+        "breed_name": "Russian Spaniel"
+      },
+      {
+        "breed_name": "Sakallı Collie"
+      },
+      {
+        "breed_name": "Saluki"
+      },
+      {
+        "breed_name": "Samoyed"
+      },
+      {
+        "breed_name": "Sanshu"
+      },
+      {
+        "breed_name": "Schipperkee"
+      },
+      {
+        "breed_name": "Sealyham Terrier"
+      },
+      {
+        "breed_name": "Shetland Çoban Köpeği"
+      },
+      {
+        "breed_name": "Shiba Inu"
+      },
+      {
+        "breed_name": "Shih Tzu"
+      },
+      {
+        "breed_name": "Sibirya Kurdu (Husky)"
+      },
+      {
+        "breed_name": "Silky Terrier"
+      },
+      {
+        "breed_name": "Siyah ve Açık Kahverengi Rakun Tazısı"
+      },
+      {
+        "breed_name": "Skye Terrier"
+      },
+      {
+        "breed_name": "Slovak Tchouvatch"
+      },
+      {
+        "breed_name": "Soft Coated Wheaten Terrier"
+      },
+      {
+        "breed_name": "Sokö (Sokak Köpeği)"
+      },
+      {
+        "breed_name": "St. Bernard (Saint Bernard)"
+      },
+      {
+        "breed_name": "Staffordshire Bull Terrier"
+      },
+      {
+        "breed_name": "Standart Schnauzer"
+      },
+      {
+        "breed_name": "Steinbracke"
+      },
+      {
+        "breed_name": "Styrian Dağ Tazısı"
+      },
+      {
+        "breed_name": "Sussex Spanieli"
+      },
+      {
+        "breed_name": "Tatra Çoban Köpeği"
+      },
+      {
+        "breed_name": "Tibet Terrieri"
+      },
+      {
+        "breed_name": "Tibetli Mastiff"
+      },
+      {
+        "breed_name": "Tibetli Spaniel"
+      },
+      {
+        "breed_name": "Tosa"
+      },
+      {
+        "breed_name": "Trigg Tazısı"
+      },
+      {
+        "breed_name": "Türk Tazısı"
+      },
+      {
+        "breed_name": "Tüysüz Collie"
+      },
+      {
+        "breed_name": "Tyrolean Tazısı"
+      },
+      {
+        "breed_name": "Valee Çoban Köpeği"
+      },
+      {
+        "breed_name": "Vizsla"
+      },
+      {
+        "breed_name": "Weimaraner"
+      },
+      {
+        "breed_name": "Welsh Springer Spaniel"
+      },
+      {
+        "breed_name": "Welsh Terrier"
+      },
+      {
+        "breed_name": "West Highland White Terrier"
+      },
+      {
+        "breed_name": "Westphalia Basseti"
+      },
+      {
+        "breed_name": "Whippet"
+      },
+      {
+        "breed_name": "Wirehaired Pointing Griffon"
+      },
+      {
+        "breed_name": "Yorkshire Terrier"
+      }
+    ]
+  },
+  {
+    "type_name": "Kedi",
+    "breeds": [
+      {
+        "breed_name": "Abyssinian"
+      },
+      {
+        "breed_name": "American Bobtail"
+      },
+      {
+        "breed_name": "American Curl"
+      },
+      {
+        "breed_name": "American Keuda"
+      },
+      {
+        "breed_name": "American Shorthair"
+      },
+      {
+        "breed_name": "American Wirehair"
+      },
+      {
+        "breed_name": "Ankara Kedisi"
+      },
+      {
+        "breed_name": "Australian Mist"
+      },
+      {
+        "breed_name": "Balinese"
+      },
+      {
+        "breed_name": "Bengal"
+      },
+      {
+        "breed_name": "Birman"
+      },
+      {
+        "breed_name": "Bombay"
+      },
+      {
+        "breed_name": "Brazilian Shorthair"
+      },
+      {
+        "breed_name": "British Longhair"
+      },
+      {
+        "breed_name": "British Shorthair"
+      },
+      {
+        "breed_name": "Burmese"
+      },
+      {
+        "breed_name": "Burmilla (Silver Burmese)"
+      },
+      {
+        "breed_name": "Californian Spangled"
+      },
+      {
+        "breed_name": "Chartreux"
+      },
+      {
+        "breed_name": "Chinchilla"
+      },
+      {
+        "breed_name": "Colorpoint Shorthair"
+      },
+      {
+        "breed_name": "Cornish Rex"
+      },
+      {
+        "breed_name": "Cymric"
+      },
+      {
+        "breed_name": "Devon Rex"
+      },
+      {
+        "breed_name": "Egyptian Maular"
+      },
+      {
+        "breed_name": "European Burmese"
+      },
+      {
+        "breed_name": "European Shorthair"
+      },
+      {
+        "breed_name": "Exotic Shorthair"
+      },
+      {
+        "breed_name": "Havana Brown"
+      },
+      {
+        "breed_name": "Himalayan"
+      },
+      {
+        "breed_name": "Honey Bear"
+      },
+      {
+        "breed_name": "İran Kedisi (Persian)"
+      },
+      {
+        "breed_name": "Japon Bobtail"
+      },
+      {
+        "breed_name": "Javanese"
+      },
+      {
+        "breed_name": "Kashmir"
+      },
+      {
+        "breed_name": "Korat"
+      },
+      {
+        "breed_name": "Laperm"
+      },
+      {
+        "breed_name": "Maine Coon"
+      },
+      {
+        "breed_name": "Manx"
+      },
+      {
+        "breed_name": "Mavi Rus"
+      },
+      {
+        "breed_name": "Mojave çöl Kedisi"
+      },
+      {
+        "breed_name": "Munchkin"
+      },
+      {
+        "breed_name": "Nebelung"
+      },
+      {
+        "breed_name": "Norwegian Forest"
+      },
+      {
+        "breed_name": "Ocicat"
+      },
+      {
+        "breed_name": "Oriental Longhair"
+      },
+      {
+        "breed_name": "Oriental Shorthair"
+      },
+      {
+        "breed_name": "Pixie Bob"
+      },
+      {
+        "breed_name": "Ragamuffin"
+      },
+      {
+        "breed_name": "Ragdoll"
+      },
+      {
+        "breed_name": "Sarman"
+      },
+      {
+        "breed_name": "Savannah"
+      },
+      {
+        "breed_name": "Scottish Fold"
+      },
+      {
+        "breed_name": "Selkirk Rex"
+      },
+      {
+        "breed_name": "Sibirya Kedisi"
+      },
+      {
+        "breed_name": "Singapura"
+      },
+      {
+        "breed_name": "Siyam Kedisi"
+      },
+      {
+        "breed_name": "Snowshoe (Karayak)"
+      },
+      {
+        "breed_name": "Soke"
+      },
+      {
+        "breed_name": "Somali"
+      },
+      {
+        "breed_name": "Sphynx"
+      },
+      {
+        "breed_name": "Tekir Kedi"
+      },
+      {
+        "breed_name": "Tiffanie"
+      },
+      {
+        "breed_name": "Tiffany/Chantilly"
+      },
+      {
+        "breed_name": "Tonkinese"
+      },
+      {
+        "breed_name": "Tuxedo (Smokin) Kedi"
+      },
+      {
+        "breed_name": "Van Kedisi"
+      },
+      {
+        "breed_name": "York Chocolate"
+      }
+    ]
+  },
+  {
+    "type_name": "Kuş",
+    "breeds": []
+  },
+  {
+    "type_name": "Kemirgen",
+    "breeds": []
+  },
+  {
+    "type_name": "Sürüngen",
+    "breeds": []
+  }
+]

@@ -1,0 +1,1404 @@
+[
+    {
+        "pet_type":"Kedi",
+        "categories":[
+            {
+                "category_name":"Kedi Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Veteriner Diyet Maması"
+                    }, {
+                        "subcategory_name":"Yavru Kedi Maması"
+                    }, {
+                        "subcategory_name":"Yetişkin Kedi Maması"
+                    }, {
+                        "subcategory_name":"Yaşlı Kedi Maması"
+                    }, {
+                        "subcategory_name":"Light Kedi Maması"
+                    }, {
+                        "subcategory_name":"Kısırlaştırılmış Kedi Maması"
+                    }, {
+                        "subcategory_name":"Özel Irk Maması"
+                    }, {
+                        "subcategory_name":"Tester Kedi Maması"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Konserve Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yavru Kedi Konservesi"
+                    }, {
+                        "subcategory_name":"Yetişkin Kedi Konservesi"
+                    }, {
+                        "subcategory_name":"Yaşlı Kedi Konservesi"
+                    }, {
+                        "subcategory_name":"Light Kedi Konservesi"
+                    }, {
+                        "subcategory_name":"Kısırlaştırılmış Kedi Konservesi"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Kumu",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Kum Kokusu Giderici"
+                    }, {
+                        "subcategory_name":"Kum Torbası"
+                    }, {
+                        "subcategory_name":"Granül Kedi Kumu"
+                    }, {
+                        "subcategory_name":"Doğal Bentonit Kedi Kumu"
+                    }, {
+                        "subcategory_name":"Silika Kedi Kumu"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Ödül Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Stick"
+                    }, {
+                        "subcategory_name":"Tablet"
+                    }, {
+                        "subcategory_name":"Sıvı"
+                    }, {
+                        "subcategory_name":"Yavru Kedi Ödülleri"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Oyuncağı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yaylı Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Led Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Kedi Ödül Oyuncağı"
+                    }, {
+                        "subcategory_name":"Hasır Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Tüylü Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Top Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Fare Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Olta Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Lazer Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Kedi Tünelleri"
+                    }, {
+                        "subcategory_name":"Catnipli ve Matatabili Oyuncaklar"
+                    }, {
+                        "subcategory_name":"Hacıyatmaz Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Zeka Geliştirici Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Peluş Kedi Oyuncağı"
+                    }, {
+                        "subcategory_name":"Kedi Oyun Alanları"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Taşıma Çantası",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Metal Kapılı"
+                    }, {
+                        "subcategory_name":"Plastik Kapılı"
+                    }, {
+                        "subcategory_name":"Şeffaf"
+                    }, {
+                        "subcategory_name":"Sırt Çantası"
+                    }, {
+                        "subcategory_name":"Omuz Çantası"
+                    }, {
+                        "subcategory_name":"Çekmeli"
+                    }
+                ]
+            },{
+                "category_name":"Vitaminler & Ek Besinler",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Macun"
+                    }, {
+                        "subcategory_name":"Tablet"
+                    }, {
+                        "subcategory_name":"Sıvı & Likit"
+                    }, {
+                        "subcategory_name":"Toz"
+                    }
+                ]
+            },{
+                "category_name":"Tırmalama Tahtası & Evleri",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Tırmalama Kartonları"
+                    }, {
+                        "subcategory_name":"Çubuk Tırmalama Tahtaları"
+                    }, {
+                        "subcategory_name":"Tırmalama Tahtalı Kedi Evleri"
+                    }, {
+                        "subcategory_name":"Tırmalama Paspasları"
+                    }, {
+                        "subcategory_name":"Oyuncaklı Tırmalama Tahtaları"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Mama & Su Kabı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Mama Saklama Kabı"
+                    }, {
+                        "subcategory_name":"Mama Ölçü Kabı"
+                    }, {
+                        "subcategory_name":"İkili Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Mama & Su Kabı Servisi"
+                    }, {
+                        "subcategory_name":"Taşınabilir Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Seramil Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Plastik Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Otomatik Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Hazneli Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Çelik Mama & Su Kabı"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Tarağı & Fırçası",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yumuşak Fırça & Taraklar"
+                    }, {
+                        "subcategory_name":"Sık Dişli Fırça & Taraklar"
+                    }, {
+                        "subcategory_name":"Tüy Makası & Makineleri"
+                    }, {
+                        "subcategory_name":"Masaj Fırçası"
+                    }, {
+                        "subcategory_name":"Çift Taraflı"
+                    }, {
+                        "subcategory_name":"Tüy Toplayıcı Eldiven"
+                    }, {
+                        "subcategory_name":"Pire Tarağı"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Kapısı",
+                "subcategories":[]
+            },{
+                "category_name":"Kedi Evi & Yuvası",
+                "subcategories":[]
+            },{
+                "category_name":"Kedi Tuvaleti",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Elekli"
+                    }, {
+                        "subcategory_name":"Otomatik Kedi Tuvaleti"
+                    }, {
+                        "subcategory_name":"Açık Kedi Tuvaleti"
+                    }, {
+                        "subcategory_name":"Kapalı Kedi Tuvaleti"
+                    }, {
+                        "subcategory_name":"Kum Küreği"
+                    }, {
+                        "subcategory_name":"Tuvalet Önü Paspası"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Tasması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Bandana"
+                    }, {
+                        "subcategory_name":"Boyun Tasması"
+                    }, {
+                        "subcategory_name":"Gezdirme Tasması"
+                    }, {
+                        "subcategory_name":"Kedi Künye & Çanları"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Yatağı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"İç Mekan Kedi Yatağı"
+                    }, {
+                        "subcategory_name":"Petek Askılığı"
+                    }, {
+                        "subcategory_name":"Kedi Minderi"
+                    }, {
+                        "subcategory_name":"Kedi Çadırı"
+                    }, {
+                        "subcategory_name":"Peluş Kedi Yatağı"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Kedi Şampuanı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Kuru Şampuan"
+                    }, {
+                        "subcategory_name":"Sıvı Şampuan"
+                    }, {
+                        "subcategory_name":"Köpük Şampuan"
+                    }
+                ]
+            },{
+                "category_name":"Kedi Kedi Bakım Ürünleri",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Kedi Süt Tozları"
+                    }, {
+                        "subcategory_name":"Yavru Kedi Bakımı"
+                    }, {
+                        "subcategory_name":"Tırnak/Pati Bakımı"
+                    }, {
+                        "subcategory_name":"Catnipler"
+                    }, {
+                        "subcategory_name":"Kedi Çimi"
+                    }, {
+                        "subcategory_name":"Pire/Kene Ürünleri"
+                    }, {
+                        "subcategory_name":"Leke & Koku Gidericiler"
+                    }, {
+                        "subcategory_name":"Göz Bakımı"
+                    }, {
+                        "subcategory_name":"Ağız/Diş Sağlığı"
+                    }, {
+                        "subcategory_name":"Deri & Tüy Bakımı"
+                    }, {
+                        "subcategory_name":"Kedi Parfümü"
+                    }, {
+                        "subcategory_name":"kedi Uzaklaştırıcılar"
+                    }, {
+                        "subcategory_name":"Güvenlik Ürünleri"
+                    }, {
+                        "subcategory_name":"Kulak Bakımı"
+                    }
+                ]
+            }
+        ],
+        "brands":[
+            {
+                "brand_name":"8in1"
+            },{
+                "brand_name":"Acana"
+            },{
+                "brand_name":"Active Clean"
+            },{
+                "brand_name":"Advance"
+            },{
+                "brand_name":"Animal World"
+            },{
+                "brand_name":"Animonda"
+            },{
+                "brand_name":"Apptite"
+            },{
+                "brand_name":"Ares"
+            },{
+                "brand_name":"Bastet"
+            },{
+                "brand_name":"Beaphar"
+            },{
+                "brand_name":"Beavis"
+            },{
+                "brand_name":"Beeztees"
+            },{
+                "brand_name":"BestPet"
+            },{
+                "brand_name":"BIO PetActive"
+            },{
+                "brand_name":"Biokats's"
+            },{
+                "brand_name":"Bioline"
+            },{
+                "brand_name":"Biyoteknik"
+            },{
+                "brand_name":"Bobo"
+            },{
+                "brand_name":"Bonnie"
+            },{
+                "brand_name":"Bozita"
+            },{
+                "brand_name":"Brekkies"
+            },{
+                "brand_name":"Brit Care"
+            },{
+                "brand_name":"Carno"
+            },{
+                "brand_name":"Cat Chow"
+            },{
+                "brand_name":"Catia"
+            },{
+                "brand_name":"Catit"
+            },{
+                "brand_name":"Chef's Choice"
+            },{
+                "brand_name":"Crocus"
+            },{
+                "brand_name":"Croque"
+            },{
+                "brand_name":"DIIL"
+            },{
+                "brand_name":"Dophin"
+            },{
+                "brand_name":"Dr.Clauders"
+            },{
+                "brand_name":"Dr.Sacchi"
+            },{
+                "brand_name":"Dreamies"
+            },{
+                "brand_name":"Eastland"
+            },{
+                "brand_name":"Eco Natura"
+            },{
+                "brand_name":"Elexsus"
+            },{
+                "brand_name":"EuroCat"
+            },{
+                "brand_name":"EuroDog"
+            },{
+                "brand_name":"EuroGold"
+            },{
+                "brand_name":"Ever Clean"
+            },{
+                "brand_name":"Evohe"
+            },{
+                "brand_name":"Ewox"
+            },{
+                "brand_name":"Exclusion"
+            },{
+                "brand_name":"Fasion"
+            },{
+                "brand_name":"Feles"
+            },{
+                "brand_name":"Felcia"
+            },{
+                "brand_name":"Felix"
+            },{
+                "brand_name":"Ferplast"
+            },{
+                "brand_name":"Fitmin"
+            },{
+                "brand_name":"Flamingo"
+            },{
+                "brand_name":"Flip"
+            },{
+                "brand_name":"Fresh & Clean"
+            },{
+                "brand_name":"Friskies"
+            },{
+                "brand_name":"Furminator"
+            },{
+                "brand_name":"Garden Mix"
+            },{
+                "brand_name":"Garfield"
+            },{
+                "brand_name":"GF Pet"
+            },{
+                "brand_name":"GiGwi"
+            },{
+                "brand_name":"Gimpet"
+            },{
+                "brand_name":"Golosi"
+            },{
+                "brand_name":"Gourmet"
+            },{
+                "brand_name":"Greenfields"
+            },{
+                "brand_name":"Hello Kitty"
+            },{
+                "brand_name":"Hill's"
+            },{
+                "brand_name":"HYPAW"
+            },{
+                "brand_name":"I Cat"
+            },{
+                "brand_name":"INABA & CIAO"
+            },{
+                "brand_name":"Jungle"
+            },{
+                "brand_name":"Karlie"
+            },{
+                "brand_name":"Kong"
+            },{
+                "brand_name":"Kudi"
+            },{
+                "brand_name":"Kyane"
+            },{
+                "brand_name":"LaVital"
+            },{
+                "brand_name":"Le Charme"
+            },{
+                "brand_name":"Lepus"
+            },{
+                "brand_name":"Lion"
+            },{
+                "brand_name":"Love Pets"
+            },{
+                "brand_name":"Matatabi Cats"
+            },{
+                "brand_name":"Me-O"
+            },{
+                "brand_name":"Miamor"
+            },{
+                "brand_name":"Miglior Gatto"
+            },{
+                "brand_name":"Miso"
+            },{
+                "brand_name":"Moderna"
+            },{
+                "brand_name":"Moser"
+            },{
+                "brand_name":"Mp Bergamo"
+            },{
+                "brand_name":"Mps"
+            },{
+                "brand_name":"My Food"
+            },{
+                "brand_name":"My Love"
+            },{
+                "brand_name":"Mystic"
+            },{
+                "brand_name":"N&D"
+            },{
+                "brand_name":"Natura"
+            },{
+                "brand_name":"Natural Trainer"
+            },{
+                "brand_name":"Nature's Protection"
+            },{
+                "brand_name":"Nature's Variety"
+            },{
+                "brand_name":"Naturon"
+            },{
+                "brand_name":"Nootie"
+            },{
+                "brand_name":"Nutri"
+            },{
+                "brand_name":"O'Cat"
+            },{
+                "brand_name":"Optimeal"
+            },{
+                "brand_name":"Orijen"
+            },{
+                "brand_name":"Patinut"
+            },{
+                "brand_name":"Pawie"
+            },{
+                "brand_name":"Pawise"
+            },{
+                "brand_name":"PawPaw"
+            },{
+                "brand_name":"Peggy"
+            },{
+                "brand_name":"Perlinette"
+            },{
+                "brand_name":"Pet Comfort"
+            },{
+                "brand_name":"Pet Love"
+            },{
+                "brand_name":"Pet Loves"
+            },{
+                "brand_name":"Pet Pretty"
+            },{
+                "brand_name":"Pet Style"
+            },{
+                "brand_name":"Pet Toy's"
+            },{
+                "brand_name":"Pet Zone"
+            },{
+                "brand_name":"Pets"
+            },{
+                "brand_name":"Pioneer Pet"
+            },{
+                "brand_name":"Pisi Pisi"
+            },{
+                "brand_name":"Pitho"
+            },{
+                "brand_name":"Plaisir"
+            },{
+                "brand_name":"Playfull"
+            },{
+                "brand_name":"Pro Line"
+            },{
+                "brand_name":"PRO ONE"
+            },{
+                "brand_name":"Pro Performance"
+            },{
+                "brand_name":"Pro Plan"
+            },{
+                "brand_name":"Pro Choice"
+            },{
+                "brand_name":"Pro Clean"
+            },{
+                "brand_name":"Profarm"
+            },{
+                "brand_name":"Profine"
+            },{
+                "brand_name":"Pronature"
+            },{
+                "brand_name":"Purina One"
+            },{
+                "brand_name":"Quik"
+            },{
+                "brand_name":"Reflex"
+            },{
+                "brand_name":"Rimba"
+            },{
+                "brand_name":"Royal Canin"
+            },{
+                "brand_name":"Royalist"
+            },{
+                "brand_name":"Sanabelle"
+            },{
+                "brand_name":"Sandy"
+            },{
+                "brand_name":"Sanicat"
+            },{
+                "brand_name":"Schesir"
+            },{
+                "brand_name":"Sholk"
+            },{
+                "brand_name":"Simple Solution"
+            },{
+                "brand_name":"Snacky"
+            },{
+                "brand_name":"Strong"
+            },{
+                "brand_name":"Tommy"
+            },{
+                "brand_name":"Trendline"
+            },{
+                "brand_name":"Trixie"
+            },{
+                "brand_name":"True Touch"
+            },{
+                "brand_name":"Truly"
+            },{
+                "brand_name":"VERSELE-LAGA"
+            },{
+                "brand_name":"Vet's Plus"
+            },{
+                "brand_name":"vetIQ"
+            },{
+                "brand_name":"Viyo"
+            },{
+                "brand_name":"Wanpy"
+            },{
+                "brand_name":"Welfare"
+            },{
+                "brand_name":"Wero"
+            },{
+                "brand_name":"Whiskas"
+            },{
+                "brand_name":"Wooc"
+            },{
+                "brand_name":"Wunder Food"
+            },{
+                "brand_name":"Zampa"
+            }
+        ]
+    },  
+    {
+        "pet_type":"Köpek",
+        "categories":[
+            {
+                "category_name":"Köpek Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Veteriner Diyet Maması"
+                    }, {
+                        "subcategory_name":"Yavru Köpek Maması"
+                    }, {
+                        "subcategory_name":"Yetişkin Köpek Maması"
+                    }, {
+                        "subcategory_name":"Yaşlı Köpek Maması"
+                    }, {
+                        "subcategory_name":"Light Köpek Maması"
+                    }, {
+                        "subcategory_name":"Özel Irk Maması"
+                    }, {
+                        "subcategory_name":"Tester Köpek Maması"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Konserve Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yavru Köpek Konservesi"
+                    }, {
+                        "subcategory_name":"Yetişkin Köpek Konservesi"
+                    }, {
+                        "subcategory_name":"Yaşlı Köpek Konservesi"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Ödül Maması",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Bisküvi"
+                    }, {
+                        "subcategory_name":"Sakatat"
+                    }, {
+                        "subcategory_name":"Stick Ödül"
+                    }, {
+                        "subcategory_name":"Tablet Ödül"
+                    }, {
+                        "subcategory_name":"Atıştırmalık"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Kemiği",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Burgu Kemik"
+                    }, {
+                        "subcategory_name":"Press Kemik"
+                    }, {
+                        "subcategory_name":"Düğümlü Kemik"
+                    },""
+                ]
+            },{
+                "category_name":"Köpek Oyuncağı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Frizbi Oyuncaklar"
+                    }, {
+                        "subcategory_name":"Ödül Oyuncağı"
+                    }, {
+                        "subcategory_name":"Sesli Oyuncak"
+                    }, {
+                        "subcategory_name":"Diş İpi"
+                    }, {
+                        "subcategory_name":"Eğitim & Zeka Geliştirici"
+                    }, {
+                        "subcategory_name":"Kumaş & Peluş"
+                    }, {
+                        "subcategory_name":"Plastik & Kauçuk"
+                    }, {
+                        "subcategory_name":"Toplar"
+                    }
+                ]
+            },{
+                "category_name":"Bakım & Temizlik Ürünleri",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Köpek Süt Tozları"
+                    }, {
+                        "subcategory_name":"Yavru Bakımı"
+                    }, {
+                        "subcategory_name":"Ağız/Diş Sağlığı"
+                    }, {
+                        "subcategory_name":"Göz Bakımı"
+                    }, {
+                        "subcategory_name":"Tırnak/Pati Bakımı"
+                    }, {
+                        "subcategory_name":"Deri & Tüy Bakımı"
+                    }, {
+                        "subcategory_name":"Tuvalet/Dışkı Torbaları"
+                    }, {
+                        "subcategory_name":"Tuvalet/Çiş Pedleri"
+                    }, {
+                        "subcategory_name":"Tüy Toplayıcılar & Rulolar"
+                    }, {
+                        "subcategory_name":"Leke & Koku Gidericiler"
+                    }, {
+                        "subcategory_name":"Pire/Kene Ürünleri"
+                    }, {
+                        "subcategory_name":"Köpek Uzaklaştırıcılar"
+                    }, {
+                        "subcategory_name":"Güvenlik Ürünleri"
+                    }, {
+                        "subcategory_name":"Deniz & Su Ürünleri"
+                    }, {
+                        "subcategory_name":"Kulak Bakımı"
+                    }, {
+                        "subcategory_name":"Bahçe Ürünleri"
+                    }, {
+                        "subcategory_name":"Köpek Parfümü"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Yatağı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"İç Mekan Köpek Yatağı"
+                    }, {
+                        "subcategory_name":"Dış Mekan Köpek Yatağı"
+                    }, {
+                        "subcategory_name":"Köpek Battaniyesi"
+                    }, {
+                        "subcategory_name":"Peluş Köpek Yatağı"
+                    }, {
+                        "subcategory_name":"Serinletici Köpek Yatağı"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Mama & Su Kabı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Ayaklı Mama & Su Kapları"
+                    }, {
+                        "subcategory_name":"Mama & Su Kabı Servisi"
+                    }, {
+                        "subcategory_name":"Yavaş Beslenme Mama Kabı"
+                    }, {
+                        "subcategory_name":"Mama Saklama Kabı"
+                    }, {
+                        "subcategory_name":"Mama Ölçü Kabı"
+                    }, {
+                        "subcategory_name":"İkili Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Taşınabilir Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Çelik Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Hazneli Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Otomatik Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Plastik Mama & Su Kabı"
+                    }, {
+                        "subcategory_name":"Seramil Mama & Su Kabı"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Tarağı & Fırçaları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yumuşak Fırça & Taraklar"
+                    }, {
+                        "subcategory_name":"Sık Dişli Fırça & Taraklar"
+                    }, {
+                        "subcategory_name":"Masaj Fırçası"
+                    }, {
+                        "subcategory_name":"Tüy Toplayıcı Eldiven"
+                    }, {
+                        "subcategory_name":"Tımar Eldiveni"
+                    }, {
+                        "subcategory_name":"Çift Taraflı"
+                    }, {
+                        "subcategory_name":"Kıtık Açıcı"
+                    }, {
+                        "subcategory_name":"Pire Tarağı"
+                    }, {
+                        "subcategory_name":"Tüy Makası & Makineleri"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Tasmaları & Kayışları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Otomatik Kayışlar"
+                    }, {
+                        "subcategory_name":"Gezdirme Kayışları"
+                    }, {
+                        "subcategory_name":"Emniyet Kemeri Tasması"
+                    }, {
+                        "subcategory_name":"Bahçe Bağlama & Kayışları"
+                    }, {
+                        "subcategory_name":"Kimlik Tüpü & Künyeler"
+                    }, {
+                        "subcategory_name":"Bandana"
+                    }, {
+                        "subcategory_name":"Koşu & Yürüyüş Tasmaları"
+                    }, {
+                        "subcategory_name":"Boyun Tasması"
+                    }, {
+                        "subcategory_name":"Göğüs Tasması"
+                    }, {
+                        "subcategory_name":"Köpek Ağızlığı"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Taşıma Çantası",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Köpek Puseti"
+                    }, {
+                        "subcategory_name":"Metal Kapılı"
+                    }, {
+                        "subcategory_name":"Plastik Kapılı"
+                    }, {
+                        "subcategory_name":"Şeffaf"
+                    }, {
+                        "subcategory_name":"Çekmeli"
+                    }, {
+                        "subcategory_name":"Omuz Çantası"
+                    }, {
+                        "subcategory_name":"Sırt Çantası"
+                    }, {
+                        "subcategory_name":"Kafes"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Şampuanı",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yavru Köpek Şampuanı"
+                    }, {
+                        "subcategory_name":"Kuru Şampuan"
+                    }, {
+                        "subcategory_name":"Köpük Şampuan"
+                    }, {
+                        "subcategory_name":"Tüy Çeşitlerine Göre"
+                    }, {
+                        "subcategory_name":"Bitki Özlü Şampuan"
+                    }, {
+                        "subcategory_name":"Köpek Doğal Şampuan"
+                    }, {
+                        "subcategory_name":"Köpek Sabunu"
+                    }
+                ]
+            },{
+                "category_name":"Vitamin & Ek Besinler",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Sıvı & Likit"
+                    }, {
+                        "subcategory_name":"Toz"
+                    }, {
+                        "subcategory_name":"Macun"
+                    }, {
+                        "subcategory_name":"Tablet"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Elbise & Galoşları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Köpek Galoşları"
+                    }, {
+                        "subcategory_name":"Köpek Paltosu & Yağmurluğu"
+                    }, {
+                        "subcategory_name":"Köpek Yürüyüş Botu"
+                    }, {
+                        "subcategory_name":"Köpek Çorabı"
+                    }, {
+                        "subcategory_name":"Köpek Patiği"
+                    }, {
+                        "subcategory_name":"Köpek Kazığı"
+                    }, {
+                        "subcategory_name":"Anksiyete Giderici"
+                    }, {
+                        "subcategory_name":"Koruyucu Elbise"
+                    }
+                ]
+            },{
+                "category_name":"Eğitim Ürünleri & Ekipmanları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Köpek Çiti"
+                    }, {
+                        "subcategory_name":"Eğitim Düdüğü"
+                    }, {
+                        "subcategory_name":"Eğitim Clicker"
+                    }, {
+                        "subcategory_name":"Eğitim Çantaları"
+                    }, {
+                        "subcategory_name":"Tuvalet Eğitim Spreyi"
+                    }
+                ]
+            },{
+                "category_name":"Köpek Kapısı",
+                "subcategories":[]
+            },{
+                "category_name":"Köpek Kulubesi",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Ahşap Kulube"
+                    }, {
+                        "subcategory_name":"Plastik Kulube"
+                    }, {
+                        "subcategory_name":"Köpek Çadırı"
+                    }
+                ]
+            },{
+                "category_name":"Araba/Araç Ekipmanları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Koltuk Koruma Örtüsü"
+                    }, {
+                        "subcategory_name":"Emniyet Kemeri Bağlantısı"
+                    }, {
+                        "subcategory_name":"Araba İçi Taşıma Ürünleri"
+                    }, {
+                        "subcategory_name":"Köpek Rampası"
+                    }, {
+                        "subcategory_name":"Bisiklet Aparatları"
+                    }, {
+                        "subcategory_name":"Araba İçi Aparatları"
+                    }
+                ]
+            }
+        ],
+        "brands":[
+            {
+                "brand_name":"8in1"
+            },{
+                "brand_name":"Acana"
+            },{
+                "brand_name":"Advance"
+            },{
+                "brand_name":"Airy Vest One"
+            },{
+                "brand_name":"Animonda"
+            },{
+                "brand_name":"Apptite"
+            },{
+                "brand_name":"Beaphar"
+            },{
+                "brand_name":"Beavis"
+            },{
+                "brand_name":"Beeztees"
+            },{
+                "brand_name":"BestPet"
+            },{
+                "brand_name":"BIO PetActive"
+            },{
+                "brand_name":"Bioline"
+            },{
+                "brand_name":"Biyoteknik"
+            },{
+                "brand_name":"Bosch"
+            },{
+                "brand_name":"Bozita"
+            },{
+                "brand_name":"Brit Care"
+            },{
+                "brand_name":"Carno"
+            },{
+                "brand_name":"Catit"
+            },{
+                "brand_name":"Chef's Choice"
+            },{
+                "brand_name":"Chiwava"
+            },{
+                "brand_name":"Club4Paws"
+            },{
+                "brand_name":"Cocoyo"
+            },{
+                "brand_name":"Collar"
+            },{
+                "brand_name":"Crocus"
+            },{
+                "brand_name":"Curli"
+            },{
+                "brand_name":"Dayang"
+            },{
+                "brand_name":"DIIL"
+            },{
+                "brand_name":"Dog Chow"
+            },{
+                "brand_name":"Dog Games"
+            },{
+                "brand_name":"Dog's Choice"
+            },{
+                "brand_name":"Dogit"
+            },{
+                "brand_name":"Dophin"
+            },{
+                "brand_name":"Dougez"
+            },{
+                "brand_name":"Dr.Clauders"
+            },{
+                "brand_name":"Dr.Sacchi"
+            },{
+                "brand_name":"Eastland"
+            },{
+                "brand_name":"Eco Natura"
+            },{
+                "brand_name":"Elexsus"
+            },{
+                "brand_name":"Enjoy"
+            },{
+                "brand_name":"EuroDog"
+            },{
+                "brand_name":"Evohe"
+            },{
+                "brand_name":"Ewox"
+            },{
+                "brand_name":"Exclusion"
+            },{
+                "brand_name":"Felcia"
+            },{
+                "brand_name":"Ferplast"
+            },{
+                "brand_name":"Fitmin"
+            },{
+                "brand_name":"Flamingo"
+            },{
+                "brand_name":"Flexi"
+            },{
+                "brand_name":"Flip"
+            },{
+                "brand_name":"Friskies"
+            },{
+                "brand_name":"Furminator"
+            },{
+                "brand_name":"Garden Mix"
+            },{
+                "brand_name":"GF Pet"
+            },{
+                "brand_name":"GiGwi"
+            },{
+                "brand_name":"Gimpet"
+            },{
+                "brand_name":"Golosi"
+            },{
+                "brand_name":"Greenfields"
+            },{
+                "brand_name":"Hill's"
+            },{
+                "brand_name":"HYPAW"
+            },{
+                "brand_name":"INABA & CIAO"
+            },{
+                "brand_name":"Jungle"
+            },{
+                "brand_name":"Karlie"
+            },{
+                "brand_name":"Kito"
+            },{
+                "brand_name":"Kong"
+            },{
+                "brand_name":"Kyane"
+            },{
+                "brand_name":"LaVital"
+            },{
+                "brand_name":"Le Charme"
+            },{
+                "brand_name":"Lepus"
+            },{
+                "brand_name":"Lion"
+            },{
+                "brand_name":"Lishinu"
+            },{
+                "brand_name":"Matadogs"
+            },{
+                "brand_name":"Moderna"
+            },{
+                "brand_name":"Morso"
+            },{
+                "brand_name":"Moser"
+            },{
+                "brand_name":"Mp Bergamo"
+            },{
+                "brand_name":"Mps"
+            },{
+                "brand_name":"My Food"
+            },{
+                "brand_name":"Mystic"
+            },{
+                "brand_name":"N&D"
+            },{
+                "brand_name":"Natura"
+            },{
+                "brand_name":"Natural Nutrition"
+            },{
+                "brand_name":"Natural Trainer"
+            },{
+                "brand_name":"Nature's Protection"
+            },{
+                "brand_name":"Nature's Variety"
+            },{
+                "brand_name":"Naturon"
+            },{
+                "brand_name":"Nootie"
+            },{
+                "brand_name":"Nutri"
+            },{
+                "brand_name":"Nylabone"
+            },{
+                "brand_name":"O'Dog"
+            },{
+                "brand_name":"Optimeal"
+            },{
+                "brand_name":"Orijen"
+            },{
+                "brand_name":"Patinut"
+            },{
+                "brand_name":"Pawise"
+            },{
+                "brand_name":"PawPaw"
+            },{
+                "brand_name":"Pawz"
+            },{
+                "brand_name":"Pedigree"
+            },{
+                "brand_name":"Peggy"
+            },{
+                "brand_name":"Pet Comfort"
+            },{
+                "brand_name":"Pet Pretty"
+            },{
+                "brand_name":"Pet Toy's"
+            },{
+                "brand_name":"PET'ING"
+            },{
+                "brand_name":"Pet's Family"
+            },{
+                "brand_name":"Petite"
+            },{
+                "brand_name":"Pets"
+            },{
+                "brand_name":"Pioneer Pet"
+            },{
+                "brand_name":"Pitho"
+            },{
+                "brand_name":"Plaisir"
+            },{
+                "brand_name":"Playfull"
+            },{
+                "brand_name":"Pro Line"
+            },{
+                "brand_name":"PRO ONE"
+            },{
+                "brand_name":"Pro Performance"
+            },{
+                "brand_name":"Pro Plan"
+            },{
+                "brand_name":"Pro Choice"
+            },{
+                "brand_name":"Profarm"
+            },{
+                "brand_name":"Profine"
+            },{
+                "brand_name":"Pronature"
+            },{
+                "brand_name":"Quik"
+            },{
+                "brand_name":"Reflex"
+            },{
+                "brand_name":"Rimba"
+            },{
+                "brand_name":"Rinti"
+            },{
+                "brand_name":"Royal Canin"
+            },{
+                "brand_name":"Royalist"
+            },{
+                "brand_name":"Schesir"
+            },{
+                "brand_name":"Sherlock Pets"
+            },{
+                "brand_name":"Sholk"
+            },{
+                "brand_name":"Simple Solution"
+            },{
+                "brand_name":"Smart Bones"
+            },{
+                "brand_name":"Snacky"
+            },{
+                "brand_name":"Steel Bone"
+            },{
+                "brand_name":"Strong"
+            },{
+                "brand_name":"Tailpetz"
+            },{
+                "brand_name":"Tommy"
+            },{
+                "brand_name":"Trendline"
+            },{
+                "brand_name":"Trixie"
+            },{
+                "brand_name":"True Touch"
+            },{
+                "brand_name":"VERSELE-LAGA"
+            },{
+                "brand_name":"Vet's Plus"
+            },{
+                "brand_name":"vetIQ"
+            },{
+                "brand_name":"Viyo"
+            },{
+                "brand_name":"Wanpy"
+            },{
+                "brand_name":"Weipy"
+            },{
+                "brand_name":"Weipro"
+            },{
+                "brand_name":"Welfare"
+            },{
+                "brand_name":"Wero"
+            },{
+                "brand_name":"Wooc"
+            },{
+                "brand_name":"Zampa"
+            }
+        ]
+    },
+    {
+        "pet_type":"Kuş",
+        "categories":[
+            {
+                "category_name":"Kuş Yemleri",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Muhabbet Kuşu Yemi"
+                    }, {
+                        "subcategory_name":"Papağan Yemi"
+                    }, {
+                        "subcategory_name":"Kanarya Yemi"
+                    }, {
+                        "subcategory_name":"Yavru Kuş Yemi"
+                    }, {
+                        "subcategory_name":"Kızıştırıcı Kuş Yemi"
+                    }, {
+                        "subcategory_name":"Konuşturucu Kuş Yemi"
+                    }
+                ]
+            },{
+                "category_name":"Kuş Kafesleri",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Muhabbet Kuşu Kafesi"
+                    }, {
+                        "subcategory_name":"Kanarya Kafesi"
+                    }, {
+                        "subcategory_name":"Papağan Kafesi"
+                    }
+                ]
+            },{
+                "category_name":"Kuş Yuvaları",
+                "subcategories":[]
+            },{
+                "category_name":"Kuş Vitaminleri & Sağlık",
+                "subcategories":[]
+            },{
+                "category_name":"Kraker & Ödüller",
+                "subcategories":[]
+            },{
+                "category_name":"Kuş Oyuncakları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Toplu Oyuncaklar"
+                    }, {
+                        "subcategory_name":"Salıncaklar"
+                    }, {
+                        "subcategory_name":"Tüylü Oyuncaklar"
+                    }, {
+                        "subcategory_name":"Zilli Oyuncaklar"
+                    }, {
+                        "subcategory_name":"Aynalar"
+                    }, {
+                        "subcategory_name":"Sahte Kuş Oyuncakları"
+                    }, {
+                        "subcategory_name":"Boncuklu Oyuncaklar"
+                    }
+                ]
+            },{
+                "category_name":"Kuş Kumu",
+                "subcategories":[]
+            },{
+                "category_name":"Gaga Taşları",
+                "subcategories":[]
+            },{
+                "category_name":"Kafes Ekipmanları",
+                "subcategories":[
+                    {
+                        "subcategory_name":"Yemlik"
+                    }, {
+                        "subcategory_name":"Suluk"
+                    }, {
+                        "subcategory_name":"Tünek"
+                    }, {
+                        "subcategory_name":"Kafes Altlığı"
+                    }, {
+                        "subcategory_name":"Kafes Ayaklığı"
+                    }, {
+                        "subcategory_name":"Kafes Sehpası"
+                    }
+                ]
+            },{
+                "category_name":"Bakım Ürünleri",
+                "subcategories":[]
+            }
+        ],
+        "brands":[
+            {
+                "brand_name":"APEX"
+            },{
+                "brand_name":"Avi-Technic"
+            },{
+                "brand_name":"Beaphar"
+            },{
+                "brand_name":"BIO PetActive"
+            },{
+                "brand_name":"Biyoteknik"
+            },{
+                "brand_name":"Dayang"
+            },{
+                "brand_name":"Deep"
+            },{
+                "brand_name":"Eastland"
+            },{
+                "brand_name":"EuroBird"
+            },{
+                "brand_name":"EuroGold"
+            },{
+                "brand_name":"Ferplast"
+            },{
+                "brand_name":"Fit Fly"
+            },{
+                "brand_name":"Flip"
+            },{
+                "brand_name":"Garden Mix"
+            },{
+                "brand_name":"GiGwi"
+            },{
+                "brand_name":"Gold Wings"
+            },{
+                "brand_name":"Jungle"
+            },{
+                "brand_name":"Kanaryapo"
+            },{
+                "brand_name":"Kardelen"
+            },{
+                "brand_name":"Karlie"
+            },{
+                "brand_name":"Living World"
+            },{
+                "brand_name":"Mps"
+            },{
+                "brand_name":"Pawise"
+            },{
+                "brand_name":"Pelagos"
+            },{
+                "brand_name":"Pet's Family"
+            },{
+                "brand_name":"Profarm"
+            },{
+                "brand_name":"QH Pet Cage"
+            },{
+                "brand_name":"Quik"
+            },{
+                "brand_name":"Quipeng"
+            },{
+                "brand_name":"Relax"
+            },{
+                "brand_name":"Sanibird"
+            },{
+                "brand_name":"Trixie"
+            },{
+                "brand_name":"VERSELE-LAGA"
+            },{
+                "brand_name":"Vision"
+            },{
+                "brand_name":"Vitakraft"
+            },{
+                "brand_name":"Wittie Molen"
+            }
+        ]
+    }
+]
