@@ -10,7 +10,8 @@ Flutter&Dart ve Firebase kullanarak yaptığım bu uygulamanın işlevleri;<br>
 gibi pek çok özelliği içerisinde barındırıyor.
 
 <br>
-Uygulamayı deneyebilmek için firebase bağlantılarını sağlamanız ve google harita apilerinin bağlantılarını sağlamanız gerekmektedir.
+Uygulamayı deneyebilmek için firebase bağlantılarını sağlamanız ve google harita apilerinin bağlantılarını sağlamanız gerekmektedir.<br>
+Apk dosyasında problem yaşamanız durumunda iletişime geçerseniz yardımcı olabilirim.
 <br>
 
 
